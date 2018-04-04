@@ -1,0 +1,5 @@
+f:\onedrive\documents\visual studio 2015\Projects\WordReader\Common\bin\Release\Common.dll
+f:\onedrive\documents\visual studio 2015\Projects\WordReader\Common\bin\Release\Common.pdb
+f:\onedrive\documents\visual studio 2015\Projects\WordReader\Common\obj\Release\Common.dll
+f:\onedrive\documents\visual studio 2015\Projects\WordReader\Common\obj\Release\Common.pdb
+f:\onedrive\documents\visual studio 2015\Projects\WordReader\Common\obj\Release\Common.csprojResolveAssemblyReference.cache

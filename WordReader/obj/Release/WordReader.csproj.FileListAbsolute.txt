@@ -1,0 +1,8 @@
+f:\onedrive\documents\visual studio 2015\Projects\WordReader\WordReader\bin\Release\WordReader.exe.config
+f:\onedrive\documents\visual studio 2015\Projects\WordReader\WordReader\bin\Release\WordReader.exe
+f:\onedrive\documents\visual studio 2015\Projects\WordReader\WordReader\bin\Release\WordReader.pdb
+f:\onedrive\documents\visual studio 2015\Projects\WordReader\WordReader\bin\Release\Common.dll
+f:\onedrive\documents\visual studio 2015\Projects\WordReader\WordReader\bin\Release\Common.pdb
+f:\onedrive\documents\visual studio 2015\Projects\WordReader\WordReader\obj\Release\WordReader.csprojResolveAssemblyReference.cache
+f:\onedrive\documents\visual studio 2015\Projects\WordReader\WordReader\obj\Release\WordReader.exe
+f:\onedrive\documents\visual studio 2015\Projects\WordReader\WordReader\obj\Release\WordReader.pdb
